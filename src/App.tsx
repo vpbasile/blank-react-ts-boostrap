@@ -4,7 +4,7 @@ import { PageContentRow, PageHeaderRow } from './Components/PageStructure';
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App container bg-dark text-light">
       <PageHeaderRow pageTitle='Page Title'>
       </PageHeaderRow>
       <PageContentRow title="Content Title">
