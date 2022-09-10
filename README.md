@@ -1,12 +1,12 @@
 # My React Starter Kit
 
-React with typescript bootstrapped with [Create React App](https://github.com/facebook/create-react-app): `npx create-react-app blank-react-ts-boostrap --template typescript`
-Unnecesary bits removed from the above
-PageStructure.tsx which has some stuctural components
-Boostrap included as css files
+- React with typescript bootstrapped with [Create React App](https://github.com/facebook/create-react-app) as: `npx create-react-app blank-react-ts-boostrap --template typescript`
+- Unnecesary bits removed from the above
+- PageStructure.tsx which has some stuctural components
+- Boostrap included as css files
 
 ## Future enhancements
-Preparation to deploy to gh-pages
+- Preparation to deploy to gh-pages
 
 ## Available Scripts
 
