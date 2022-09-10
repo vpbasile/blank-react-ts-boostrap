@@ -7,6 +7,7 @@
 
 ## Future enhancements
 - Preparation to deploy to gh-pages
+- My set of acessibility-minded stylesheets
 
 ## Available Scripts
 
